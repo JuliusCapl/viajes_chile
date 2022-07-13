@@ -1,3 +1,4 @@
+//script para cambiar bg-color del navbar
 var myNav = document.getElementById("barra");
 
 window.onscroll = function() {
@@ -12,7 +13,7 @@ window.onscroll = function() {
 
 
 
-
+//mensaje alerta al enviar un mensaje
 function alerta() {
     alert("Mensaje enviado")
 }
